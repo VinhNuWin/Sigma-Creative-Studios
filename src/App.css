@@ -94,7 +94,7 @@ img {
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: fit-content;
+    height: 25vh;
     text-align: center;
     /* border: 2px solid red; */
     /* margin: 5%; */
