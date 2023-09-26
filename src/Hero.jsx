@@ -14,7 +14,12 @@ export const Hero = () => {
         what they do with the world.
       </span>
       <div className="home-button">
-        <Button width="50%" height="50%" backgroundColor="rgb(243, 189, 77)">
+        <Button
+          width="50%"
+          height="50%"
+          backgroundColor="rgb(113, 76, 244)"
+          textColor="white"
+        >
           LEARN MORE
         </Button>
       </div>

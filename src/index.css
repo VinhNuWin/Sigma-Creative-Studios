@@ -10,11 +10,16 @@ iframe {
   /* padding: auto; */
 }
 
+p {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
 h2 {
-  color: rgb(243, 189, 77);
+  color: rgb(113, 76, 244);
   font-weight: 700;
   padding: 1rem;
   text-align: left;
+  font-family: "Noto Sans JP", sans-serif;
 }
 
 /* ul li {
@@ -29,7 +34,7 @@ h2 {
   }
   hr {
     display: flex;
-    border: 5px solid rgb(243, 189, 77);
+    border: 5px solid rgb(113, 76, 244);
     margin-top: 2rem;
     margin-bottom: 2rem;
     width: 50%;
@@ -44,7 +49,7 @@ h2 {
   }
   hr {
     display: inline-block;
-    border: 5px solid rgb(243, 189, 77);
+    border: 5px solid rgb(113, 76, 244);
     margin-top: 2rem;
     margin-bottom: 2rem;
     width: 15%;

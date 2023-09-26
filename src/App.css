@@ -109,6 +109,30 @@ img {
 }
 
 @media screen and (min-width: 978px) {
+  .nav-bar {
+    height: 6vh;
+    background: rgb(113, 74, 244);
+    background: linear-gradient(
+      180deg,
+      rgba(48, 24, 131, 1) 0%,
+      rgba(81, 49, 194, 1) 46%,
+      rgba(146, 115, 255, 1) 100%
+    );
+    box-shadow: 0 0 10px #4b4b4b;
+    position: sticky;
+    width: 100%;
+    z-index: 9999;
+    line-height: 1rem;
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  .nav-links {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    align-content: center;
+    right: 1%;
+  }
   .container {
     display: flex;
     flex-direction: column;

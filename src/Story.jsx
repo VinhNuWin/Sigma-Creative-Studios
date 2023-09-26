@@ -63,7 +63,8 @@ export const Story = () => {
           <Button
             width="100%"
             height="100%"
-            backgroundColor="rgb(243, 189, 77)"
+            backgroundColor="rgb(113, 76, 244)"
+            textColor="white"
           >
             CONTACT US
           </Button>

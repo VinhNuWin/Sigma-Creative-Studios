@@ -49,50 +49,50 @@ export const Services = () => {
               professional video production expertise. Our specialties include:
             </span>
             <motion.div variants={item} className="item">
-              <GiVideoConference color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <GiVideoConference color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Marketing Video</span>
             </motion.div>
             <motion.div variants={item} className="item">
               <IoShareSocialOutline
-                color="rgb(243, 189, 77)"
+                color="rgb(113, 76, 244)"
                 fontSize="1.5em"
               />
               <span className="item-span">Video for Social Channels</span>
             </motion.div>
             <motion.div variants={item} className="item">
-              <IoVideocamOutline color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <IoVideocamOutline color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Video Editing</span>
             </motion.div>
             <motion.div variants={item} className="item">
-              <GiVirtualMarker color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <GiVirtualMarker color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Virtual Events</span>
             </motion.div>
             <motion.div variants={item} className="item">
-              <GiVideoConference color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <GiVideoConference color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Motion Graphics</span>
             </motion.div>
             <motion.div variants={item} className="item">
-              <GiStripedSun color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <GiStripedSun color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Logo Animation</span>
             </motion.div>
             <motion.div variants={item} className="item">
-              <GiSoundWaves color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <GiSoundWaves color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Voice Over Talent</span>
             </motion.div>
             <motion.div variants={item} className="item">
-              <GiMusicSpell color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <GiMusicSpell color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Music Selection</span>
             </motion.div>
             <motion.div variants={item} className="item">
-              <GiDeliveryDrone color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <GiDeliveryDrone color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Aerial Video</span>
             </motion.div>
             <motion.div variants={item} className="item">
-              <GiTeamIdea color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <GiTeamIdea color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Interview Facilitation</span>
             </motion.div>
             <motion.div variants={item} className="item">
-              <IoMicCircle color="rgb(243, 189, 77)" fontSize="1.5em" />
+              <IoMicCircle color="rgb(113, 76, 244)" fontSize="1.5em" />
               <span className="item-span">Podcast Editing</span>
             </motion.div>
           </motion.ul>
@@ -102,7 +102,8 @@ export const Services = () => {
               <Button
                 width="100%"
                 height="50%"
-                backgroundColor="rgb(243, 189, 77)"
+                backgroundColor="rgb(113, 76, 244)"
+                textColor="white"
               >
                 VIDEO MARKETING
               </Button>
@@ -111,7 +112,8 @@ export const Services = () => {
               <Button
                 width="100%"
                 height="50%"
-                backgroundColor="rgb(243, 189, 77)"
+                backgroundColor="rgb(113, 76, 244)"
+                textColor="white"
               >
                 AERIAL VIDEO & PHOTO
               </Button>
@@ -120,7 +122,8 @@ export const Services = () => {
               <Button
                 width="100%"
                 height="50%"
-                backgroundColor="rgb(243, 189, 77)"
+                backgroundColor="rgb(113, 76, 244)"
+                textColor="white"
               >
                 VIDEO EDITING
               </Button>
@@ -130,7 +133,8 @@ export const Services = () => {
               <Button
                 width="100%"
                 height="50%"
-                backgroundColor="rgb(243, 189, 77)"
+                backgroundColor="rgb(113, 76, 244)"
+                textColor="white"
               >
                 LET'S DISCUSS YOUR VIDEO STRATEGY!
               </Button>
